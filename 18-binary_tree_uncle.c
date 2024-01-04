@@ -18,7 +18,7 @@ return (node->parent->left);
 /**
 * binary_tree_uncle - find the uncle
 * @node: node to find uncle of
-* Return: returns a pointer to the 
+* Return: returns a pointer to the
 * binary_tree_uncle
 */
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
